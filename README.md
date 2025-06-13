@@ -6,5 +6,5 @@
 
 - 🐱 `pronouns @ he/him/they/them`
 
-- 🚀 `languages (i use/learn) @ Python, C, Rust, HTML, CSS, JS`
+- 🚀 `languages (i use/learn) @ Python, C, Rust, HTML, CSS, JavaScript, Bash, Java/Kotlin`
 
